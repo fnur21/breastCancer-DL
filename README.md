@@ -1,4 +1,4 @@
-# breastCancer-DL
+# breastCancer-ML
 # 🧠 Meme Kanseri Teşhisi - Makine Öğrenmesi Projesi
 
 ## 📌 Proje Hakkında
