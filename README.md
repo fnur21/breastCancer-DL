@@ -12,9 +12,7 @@ Bu proje, Breast Cancer Wisconsin veri seti kullanılarak meme kanseri teşhisi 
 
 ## 📊 Kullanılan Algoritmalar
 - Decision Tree
-- K-Nearest Neighbors (KNN)
-- Logistic Regression
-- Random Forest
+
 
 ## 📈 Değerlendirme Metrikleri
 - Doğruluk (Accuracy)
